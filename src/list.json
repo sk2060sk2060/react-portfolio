@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Code Quiz",
+    "image": "/code-quiz-2.png",
+    "url": "https://sk2060sk2060.github.io/hw-4/"
+  },
+  {
+    "id": 2,  
+    "name": "Weather Dashboard",
+    "image": "/weather-dashboard.gif",
+    "url": "https://sk2060sk2060.github.io/hw-6/"
+  },
+  {
+    "id": 3,  
+    "name": "Workout Tracker",
+    "image": "/workout-tracker.jpg",
+    "url": "https://guarded-mesa-27423.herokuapp.com/"
+  },
+  {
+    "id": 4,  
+    "name": "Eat-Da-Burger!",
+    "image": "/burger-pic.jpg",
+    "url": "https://immense-fortress-15154.herokuapp.com/",
+    "info": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat."
+  },
+  {
+    "id": 5,  
+    "name": "Note Taker",
+    "image": "/note-taker.png",
+    "url": "https://shrouded-lowlands-24316.herokuapp.com/",
+    "info": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat."
+  },
+  {
+    "id": 6,  
+    "name": "Online/Offline Budget Trackers",
+    "image": "/budget-tracker.png",
+    "url": "https://still-brushlands-75449.herokuapp.com/",
+    "info": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat."
+  }
+]
